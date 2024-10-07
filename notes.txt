@@ -9,3 +9,6 @@ git add .       # all the changed files
 
 # make the commit
 git commit -m "a description of the changes"
+
+# push new local commits to the remote repo
+git push origin main
